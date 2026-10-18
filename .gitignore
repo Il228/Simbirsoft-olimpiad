@@ -1,0 +1,24 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest & Allure
+.pytest_cache/
+allure-results/
+allure-report/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# OS and IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+Thumbs.db
+Desktop.ini
